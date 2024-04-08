@@ -5,10 +5,17 @@ Git é um sistema de controle de versão distribuído, projetado para acompanhar
 
 Em termos simples, o Git permite que várias pessoas trabalhem em um projeto, fazendo alterações em arquivos. Ele controla essas mudanças, permitindo que os usuários colaborem de forma eficaz sem sobrescrever o trabalho uns dos outros. Além disso, o Git mantém um histórico completo de todas as alterações feitas nos arquivos, o que permite aos desenvolvedores voltar a versões anteriores do projeto, se necessário.
 
+
+  
+  ![image](https://github.com/Raianbr10/AV1/assets/164504234/f90af385-0111-4d5a-8591-fbcf27b174e5)
+
 <div align="center">
 
 # GitHub
 GitHub é uma plataforma de hospedagem de código-fonte e colaboração baseada em nuvem. Ele utiliza o sistema de controle de versão Git para permitir que desenvolvedores hospedem, revisem e colaborem em projetos de software de forma eficiente. Lançado em 2008, o GitHub se tornou uma das maiores e mais influentes comunidades de desenvolvimento de software do mundo.
+
+![image](https://github.com/Raianbr10/AV1/assets/164504234/24e45333-f44e-4940-a7ab-f359f7ff6e30)
+
 
 <div align="center">
 
