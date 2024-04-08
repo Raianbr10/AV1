@@ -22,3 +22,7 @@ GitHub é uma plataforma de hospedagem de código-fonte e colaboração baseada 
 # VsCode
 
 Visual Studio Code (também conhecido como VS Code) é um editor de código-fonte desenvolvido pela Microsoft. Ele é gratuito, de código aberto e está disponível para Windows, macOS e Linux. O Visual Studio Code é altamente personalizável e oferece suporte a uma ampla variedade de linguagens de programação, além de oferecer uma grande variedade de extensões que podem ser instaladas para adicionar funcionalidades adicionais.
+
+<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/images/logo@3x.png" alt="logo" width="250">
+
+
